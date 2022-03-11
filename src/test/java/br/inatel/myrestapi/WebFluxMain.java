@@ -8,7 +8,7 @@ import org.springframework.web.reactive.function.client.WebClient;
 import br.inatel.myrestapi.model.Curso;
 import reactor.core.publisher.Flux;
 
-public class WebFluxTest {
+public class WebFluxMain {
 	
 	public static void main(String[] args) {
 		
